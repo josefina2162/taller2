@@ -1,0 +1,67 @@
+
+.f1 {
+    font-family: 'Asap', sans-serif;
+  line-height: 20pt;
+  margin-top: 100px;
+  color: white;
+  background-color: #2E303E;
+  padding: 40px;
+}
+
+
+#titulo {
+  padding-top: 30px;
+  margin-left: 160px;
+font-family: 'Asap', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+
+}
+
+#texto {
+  margin-left: 90px;
+font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 30px;
+  padding: 30px;
+
+}
+
+#seguir {
+
+text-align: center;
+  margin-top: -138px;
+font-family: 'Asap', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    border: 1px red;
+}
+
+#iconos {
+
+  padding-top: 30px;
+  margin-left: 540px;
+
+}
+
+#suscribir {
+
+margin-left: 980px;
+margin-top: -105px;
+  font-family: 'Asap', sans-serif;
+      font-weight: 700;
+      font-size: 30px;
+      border: 1px red;
+}
+
+#correo {
+  margin-left: 980px;
+margin-top: -170px;
+
+}
+
+#boton {
+  margin-left: 1050px;
+margin-top: -200px;
+}
