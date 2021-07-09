@@ -10,7 +10,10 @@
 @import url("top4.css");
 @import url("ultimos-articulos.css");
 @import url("footer.css");
-
+@import url("ganadoras.css");
+@import url("masvotado.css");
+@import url("birdbox.css");
+@import url("encuesta.css");
 
 *{
   margin:0;
